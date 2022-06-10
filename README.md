@@ -10,7 +10,7 @@ Np. w img - item.image
 
 ## 3. Stworzenie nowego komponentu
 
-Należy stowrzyć nowy komponent FUNKCYJNY, który będzie nazywać się - XYhome.jsx (XY - to inicjały).
+Należy stworzyć nowy komponent FUNKCYJNY, który będzie nazywać się - XYhome.jsx (XY - to inicjały).
 
 W tym zadaniu trzeba dodać routing do nowego komponentu, którym będzie ścieżka "/home".
 
